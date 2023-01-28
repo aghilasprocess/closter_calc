@@ -1,0 +1,6 @@
+phase 0 :
+50 Device ->
+
+Revenue = Device price * Sales
+Profit = 186 * Sales
+cost = Revenue - Profit
